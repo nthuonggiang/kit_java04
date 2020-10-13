@@ -35,7 +35,7 @@ public class bt10 {
             {
                 System.out.printf("%4d",a[i][j]);
             }
-            System.out.printf("\n");
+            System.out.println();
         }
     }
     static void sapXep(int[][] a,int d,int c)
